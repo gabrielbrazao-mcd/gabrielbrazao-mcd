@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gabrielbrazao-mcd
-- 👀 I’m interested in developing microservices.
-- 🌱 I’m currently learning unit tests, GraphQL and OpenAPI specification.
+- 👋 Hi, I’m @gabrielbrazao-mcd (Brazão)
+- 👀 I’m interested in developing microservices and all kinds of APIs.
+- 🌱 I’m currently learning unit tests, Blazor and OpenAPI specification.
 - 📫 You can reach me on gabriel.brazao@capgemini.com
 
 <!---
