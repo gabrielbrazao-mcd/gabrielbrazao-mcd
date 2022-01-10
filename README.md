@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel Brazão (@gabrielbrazao-mcd) </h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **NP Transformation.**
+- 🔭 I’m currently working on **NP Transformation 2.0**
 
-- 🌱 I’m currently learning **Unit Test, Blazor, OpenAPI Specification.**
+- 🌱 I’m currently learning **Clean Architecture, Opentest and DDD.**
 
 - 👯 I’m looking to collaborate on **microservices and all kinds of APIs.**
 
